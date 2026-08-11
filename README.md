@@ -9,7 +9,7 @@ This portfolio highlights my practical knowledge of **Python, SQL, Power BI, Exc
 ## 🌐 Live Portfolio
 
 🔗 **Portfolio:**  
-https://sutharshiv482-coder.github.io/portfolio-dashboard/
+[https://sutharshiv482-coder.github.io/portfolio-dashboard/](https://github.com/sutharshiv482-coder/portfolio-dashboard/blob/main/index.html)
 
 ---
 
